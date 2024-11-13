@@ -1,11 +1,16 @@
-# Exercise-05c-LightsAndMaterials
+# Exercise-05D-EnemiesAndNavMeshes
 
 
 ## Implementation
 
 ## References
+Video
 
 ## Future Development
+Project 05
 
 ## Created by
-Nathan Mishler
+Daniyaal Hussain
+
+## Username
+Lutumna
